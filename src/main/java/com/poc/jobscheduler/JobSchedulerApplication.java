@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PocSpringJobSchedulerApplication {
+public class JobSchedulerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PocSpringJobSchedulerApplication.class, args);
+		SpringApplication.run(JobSchedulerApplication.class, args);
 	}
 
 }
